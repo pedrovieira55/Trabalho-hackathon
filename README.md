@@ -125,4 +125,4 @@ O projeto adota uma estratégia de mercado híbrida com foco social e corporativ
 
 1. Certifique-se de manter a estrutura de pastas do front-end com os arquivos HTML na raiz e as pastas `/css` e `/js` nos locais indicados.
 2. Inicialize o projeto executando o arquivo `home.html` por meio de um servidor web local (como a extensão Live Server do VS Code).
-3. O fluxo de testes pode ser iniciado pela tela institucional, avançando para os formulários de autenticação e acessando o painel de gerenciamento do mapa.
+3. O fluxo de testes pode ser iniciado pela tela institucional, avançando para os formulários de autenticação e acessando o painel de gerenciamento do mapas.
